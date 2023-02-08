@@ -22,7 +22,7 @@ class _FriendMsgState extends State<FriendMsg> {
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
           Text('好友动态', style: TextStyle(fontSize: 18, fontWeight: FontWeight.w500, color: Colors.black)),
-          Badge('', dot: true, fixed: false),
+          SelfBadge('', dot: true, fixed: false),
         ],
       ),
     );

@@ -67,7 +67,7 @@ class AskMenuItem extends StatelessWidget {
           isLink
               ? Row(
                   children: [
-                    Badge('', dot: true, fixed: false),
+                    SelfBadge('', dot: true, fixed: false),
                     SizedBox(width: iDefaultPadding / 4),
                     Icon(SelfIcon.ArrowRight, size: 16, color: Colors.black38),
                   ],

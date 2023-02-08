@@ -4,8 +4,8 @@ import 'package:flutter_maimai/constants.dart';
 const double badgeSize = 20.0;
 const double badgeDotSize = 10.0;
 
-class Badge extends StatelessWidget {
-  const Badge(
+class SelfBadge extends StatelessWidget {
+  const SelfBadge(
     this.value, {
     Key? key,
     this.right,

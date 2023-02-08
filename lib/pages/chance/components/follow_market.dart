@@ -15,7 +15,7 @@ class FollowMarket extends StatelessWidget {
         children: [
           CircleAvatar(
             radius: 15,
-            backgroundImage: AssetImage('assets/images/avatar.jpg'),
+            backgroundImage: AssetImage('assets/images/avatar.png'),
           ),
           Container(
             margin: EdgeInsets.only(left: iDefaultPadding / 2),

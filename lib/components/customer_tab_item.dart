@@ -45,7 +45,7 @@ class CustomerTabItem extends StatelessWidget {
                     ],
                   )
                 : Text(title, style: _style),
-            haveBadge ? Badge(badge, top: -8, right: -30) : Text(''),
+            haveBadge ? SelfBadge(badge, top: -8, right: -30) : Text(''),
           ],
         ),
       ),

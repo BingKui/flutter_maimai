@@ -58,7 +58,7 @@ class NavbarItem extends StatelessWidget {
               ),
             ),
             num > 0
-                ? Badge(
+                ? SelfBadge(
                     '$num',
                     dot: isDot,
                     right: isDot ? itemWidth * 0.3 : itemWidth * 0.16,

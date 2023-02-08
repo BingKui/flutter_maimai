@@ -18,11 +18,11 @@ class _HotListState extends State<HotList> {
       children: [
         Text(
           '脉脉',
-          style: TextStyle(fontSize: 25, color: iPrimaryColor, fontWeight: FontWeight.w500),
+          style: TextStyle(fontSize: 25, color: iPrimaryColor, fontWeight: FontWeight.w900),
         ),
         Text(
           '热榜',
-          style: TextStyle(fontSize: 25, color: Colors.black, fontWeight: FontWeight.w500),
+          style: TextStyle(fontSize: 25, color: Colors.black, fontWeight: FontWeight.w900),
         ),
       ],
     );

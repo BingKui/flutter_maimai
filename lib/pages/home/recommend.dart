@@ -16,7 +16,7 @@ class _RecommendState extends State<Recommend> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      padding: EdgeInsets.only(top: iDefaultPadding / 2),
+      padding: EdgeInsets.only(top: iDefaultPadding / 2, bottom: iDefaultPadding * 4),
       child: ListView.builder(
         itemBuilder: (context, index) {
           return SpeechItem(speech: speechList[index]);

@@ -4,7 +4,8 @@ List CompanyPostMockList = [
   {
     "postId": 1,
     "companyName": "公司A名称",
-    "companyLogo": "https://pics7.baidu.com/feed/94cad1c8a786c917f9877b2476aa2ac93ac75740.jpeg?token=70f708b42ca1dbbb6faf59919177ba44",
+    "companyLogo":
+        "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F202107%2F27%2F20210727200514_f11e2.jpeg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1678447184&t=88f3f49fe9cdaa106da0ea9bd98b8f95",
     "postName": "web前端工程师",
     "salary": {
       "min": 12,
@@ -20,7 +21,7 @@ List CompanyPostMockList = [
   {
     "postId": 2,
     "companyName": "公司B名称",
-    "companyLogo": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F202107%2F09%2F20210709210621_bcea1.thumb.1000_0.jpeg",
+    "companyLogo": "https://img1.baidu.com/it/u=642615975,3013253527&fm=253&fmt=auto&app=138&f=JPEG?w=501&h=500",
     "postName": "高级前端工程师",
     "salary": {
       "min": 20,
@@ -36,7 +37,8 @@ List CompanyPostMockList = [
   {
     "postId": 1,
     "companyName": "公司A名称",
-    "companyLogo": "https://pics7.baidu.com/feed/94cad1c8a786c917f9877b2476aa2ac93ac75740.jpeg?token=70f708b42ca1dbbb6faf59919177ba44",
+    "companyLogo":
+        "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F202107%2F27%2F20210727200514_f11e2.jpeg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1678447184&t=88f3f49fe9cdaa106da0ea9bd98b8f95",
     "postName": "Web前端开发工程师",
     "salary": {
       "min": 12,
@@ -52,7 +54,7 @@ List CompanyPostMockList = [
   {
     "postId": 2,
     "companyName": "公司B名称",
-    "companyLogo": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F202107%2F09%2F20210709210621_bcea1.thumb.1000_0.jpeg",
+    "companyLogo": "https://img1.baidu.com/it/u=642615975,3013253527&fm=253&fmt=auto&app=138&f=JPEG?w=501&h=500",
     "postName": "高级前端工程师",
     "salary": {
       "min": 20,
@@ -68,7 +70,8 @@ List CompanyPostMockList = [
   {
     "postId": 1,
     "companyName": "公司A名称",
-    "companyLogo": "https://pics7.baidu.com/feed/94cad1c8a786c917f9877b2476aa2ac93ac75740.jpeg?token=70f708b42ca1dbbb6faf59919177ba44",
+    "companyLogo":
+        "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F202107%2F27%2F20210727200514_f11e2.jpeg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1678447184&t=88f3f49fe9cdaa106da0ea9bd98b8f95",
     "postName": "Web前端开发工程师",
     "salary": {
       "min": 12,
@@ -84,7 +87,7 @@ List CompanyPostMockList = [
   {
     "postId": 2,
     "companyName": "公司B名称",
-    "companyLogo": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F202107%2F09%2F20210709210621_bcea1.thumb.1000_0.jpeg",
+    "companyLogo": "https://img1.baidu.com/it/u=642615975,3013253527&fm=253&fmt=auto&app=138&f=JPEG?w=501&h=500",
     "postName": "高级前端工程师",
     "salary": {
       "min": 20,
@@ -100,7 +103,8 @@ List CompanyPostMockList = [
   {
     "postId": 1,
     "companyName": "公司A名称",
-    "companyLogo": "https://pics7.baidu.com/feed/94cad1c8a786c917f9877b2476aa2ac93ac75740.jpeg?token=70f708b42ca1dbbb6faf59919177ba44",
+    "companyLogo":
+        "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F202107%2F27%2F20210727200514_f11e2.jpeg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1678447184&t=88f3f49fe9cdaa106da0ea9bd98b8f95",
     "postName": "Web前端开发工程师",
     "salary": {
       "min": 12,
@@ -116,7 +120,7 @@ List CompanyPostMockList = [
   {
     "postId": 2,
     "companyName": "公司B名称",
-    "companyLogo": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F202107%2F09%2F20210709210621_bcea1.thumb.1000_0.jpeg",
+    "companyLogo": "https://img1.baidu.com/it/u=642615975,3013253527&fm=253&fmt=auto&app=138&f=JPEG?w=501&h=500",
     "postName": "高级前端工程师",
     "salary": {
       "min": 20,
@@ -132,7 +136,8 @@ List CompanyPostMockList = [
   {
     "postId": 1,
     "companyName": "公司A名称",
-    "companyLogo": "https://pics7.baidu.com/feed/94cad1c8a786c917f9877b2476aa2ac93ac75740.jpeg?token=70f708b42ca1dbbb6faf59919177ba44",
+    "companyLogo":
+        "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F202107%2F27%2F20210727200514_f11e2.jpeg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1678447184&t=88f3f49fe9cdaa106da0ea9bd98b8f95",
     "postName": "Web前端开发工程师",
     "salary": {
       "min": 12,
@@ -148,7 +153,7 @@ List CompanyPostMockList = [
   {
     "postId": 2,
     "companyName": "公司B名称",
-    "companyLogo": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F202107%2F09%2F20210709210621_bcea1.thumb.1000_0.jpeg",
+    "companyLogo": "https://img1.baidu.com/it/u=642615975,3013253527&fm=253&fmt=auto&app=138&f=JPEG?w=501&h=500",
     "postName": "高级前端工程师",
     "salary": {
       "min": 20,
@@ -164,7 +169,8 @@ List CompanyPostMockList = [
   {
     "postId": 1,
     "companyName": "公司A名称",
-    "companyLogo": "https://pics7.baidu.com/feed/94cad1c8a786c917f9877b2476aa2ac93ac75740.jpeg?token=70f708b42ca1dbbb6faf59919177ba44",
+    "companyLogo":
+        "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F202107%2F27%2F20210727200514_f11e2.jpeg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1678447184&t=88f3f49fe9cdaa106da0ea9bd98b8f95",
     "postName": "Web前端开发工程师",
     "salary": {
       "min": 12,
@@ -180,7 +186,7 @@ List CompanyPostMockList = [
   {
     "postId": 2,
     "companyName": "公司B名称",
-    "companyLogo": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F202107%2F09%2F20210709210621_bcea1.thumb.1000_0.jpeg",
+    "companyLogo": "https://img1.baidu.com/it/u=642615975,3013253527&fm=253&fmt=auto&app=138&f=JPEG?w=501&h=500",
     "postName": "高级前端工程师",
     "salary": {
       "min": 20,
